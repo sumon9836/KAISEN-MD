@@ -46,7 +46,7 @@ The setup will run automatically — no need to edit the code.
 > ⚠️ If this file doesn't work on your host, use the full .zip package below instead.
 ##
 
-<a href="https://www.mediafire.com/file/0dt0dinp1k4bt10/KAISEN-VPS-main.zip/file"><img title="KAISEN-MD PANEL File" src="https://img.shields.io/badge/2 File- download .zip -h?color=black&style=for-the-badge&logo=files"></a>
+<a href="https://www.mediafire.com/file/58o5n0cgfesb0td/KAISEN_MD_PANEL.zip/file"><img title="KAISEN-MD PANEL File" src="https://img.shields.io/badge/2 File- download .zip -h?color=black&style=for-the-badge&logo=files"></a>
 
 > ✅ Instructions:
 

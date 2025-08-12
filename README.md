@@ -6,11 +6,11 @@
 
 ### SETUP
 
-1. Fork The Repo
+1. Fork the Repository
     <br>
-<a href="https://github.com/sumon9836/KAISEN-MD-V2/fork"><img title="KAISEN-MD" src="https://img.shields.io/badge/FORK KAISEN-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/sumon9836/KAISEN-MD/fork"><img title="KAISEN-MD" src="https://img.shields.io/badge/FORK KAISEN-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-2. pair kaisen
+2. Get Your session id 
     <br>
 <a href="https://pair-kaisen-5hhv.onrender.com/"><img title="PAIR CODE" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi"></a>
 
@@ -21,16 +21,55 @@
 
 --------
 
-#### Deploy To Panel 
-
-<a href="https://www.mediafire.com/file/1fxhp0658df2wl8/index.js/file"><img title="KAISEN-MD PANEL File" src="https://img.shields.io/badge/File-KAISEN MD PANEL -h?color=black&style=for-the-badge&logo="></a>
+#### Download panel file 
 
 
+<a href="https://www.mediafire.com/file/ah1mnzuwb1wzf21/index.js/file"><img title="KAISEN-MD PANEL File" src="https://img.shields.io/badge/1 File- download index.js -h?color=black&style=for-the-badge&logo=files"></a>
 
-<a href="optiklink.com"><img title="OptikLink" src="https://img.shields.io/badge/DEPLOY OptikLink-h?color=black&style=for-the-badge&logo=katabump"></a>
+📄 1. Single index.js File
 
 
-<a href="https://bot-hosting.net"><img title="bot hosting" src="https://img.shields.io/badge/DEPLOY bot hosting-h?color=black&style=for-the-badge&logo=katabump"></a>
+
+> ✅ Instructions:
+
+Download the index.js file.
+
+Upload it directly to your hosting panel.
+
+Open the panel console and paste your Session ID when prompted.
+
+The setup will run automatically — no need to edit the code.
+
+
+
+
+> ⚠️ If this file doesn't work on your host, use the full .zip package below instead.
+##
+
+<a href="https://www.mediafire.com/file/0dt0dinp1k4bt10/KAISEN-VPS-main.zip/file"><img title="KAISEN-MD PANEL File" src="https://img.shields.io/badge/2 File- download .zip -h?color=black&style=for-the-badge&logo=files"></a>
+
+> ✅ Instructions:
+
+Download the .zip file.
+
+Unzip (extract) the contents.
+
+Open the index.js file.
+
+Paste your Session ID inside the index.js.
+
+Upload the full project to your preferred panel or host.
+
+
+
+## Deploy To Panel
+
+<a href="https://optiklink.com"><img title="OptikLink" src="https://img.shields.io/badge/DEPLOY OptikLink-h?color=black&style=for-the-badge&logo=pterodactyl"></a>
+
+
+<a href="https://bot-hosting.net"><img title="bot hosting" src="https://img.shields.io/badge/DEPLOY bot hosting-h?color=black&style=for-the-badge&logo=pterodactyl"></a>
+
+<a href="https://katabump.com"><img title="katabump" src="https://img.shields.io/badge/DEPLOY katabump-h?color=black&style=for-the-badge&logo=pterodactyl"></a>
 
 -------
 
@@ -45,7 +84,7 @@
 
 #### Deploy To Heroku 
 
-<a href="heroku.com"><img title="KAISEN-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://heroku.com"><img title="KAISEN-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 
 ---
@@ -60,10 +99,9 @@
 <a href="https://replit.com/github/sumon9836/KAISEN-MD"><img title="KAISEN-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
 
 ---
- 
+
+
+
  ### Support
 
-SUPPORT GROUP
-
-<a href="https://chat.whatsapp.com/CQyxExEBMGvEnkA32zqbNY"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f
-                                                             723d7768697465"/></a>
+<a href="https://chat.whatsapp.com/CQyxExEBMGvEnkA32zqbNY"><img alt="WhatsApp" src="https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp"/></a>

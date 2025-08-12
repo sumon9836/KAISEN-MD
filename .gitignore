@@ -1,0 +1,7 @@
+node_modules
+connect
+database.db
+.git
+.upm
+package-lock.json
+.replit

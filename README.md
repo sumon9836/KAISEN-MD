@@ -24,7 +24,7 @@
 #### Download panel file 
 
 
-<a href="https://www.mediafire.com/file/ah1mnzuwb1wzf21/index.js/file"><img title="KAISEN-MD PANEL File" src="https://img.shields.io/badge/1 File- download index.js -h?color=black&style=for-the-badge&logo=files"></a>
+<a href="https://www.mediafire.com/file/9xwjdhf5frahvrn/index.js/file"><img title="KAISEN-MD PANEL File" src="https://img.shields.io/badge/1 File- download index.js -h?color=black&style=for-the-badge&logo=files"></a>
 
 📄 1. Single index.js File
 

@@ -1,6 +1,6 @@
 {
   "name": "KAISEN-MD v2",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "WhatsApp bot made kaisen md with nodejs and baileys",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,6 @@
     "url": "git+https://github.com/sumon9836/KAISEN-MD.git test"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "^5.0.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@whiskeysockets/baileys": "^6.7.18",

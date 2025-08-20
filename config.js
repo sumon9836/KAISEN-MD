@@ -36,7 +36,7 @@ module.exports = {
   REACT: process.env.REACT || 'true',
 
   WARNCOUND: parseInt(process.env.WARNCOUND || '5'),
-  BOT_INFO: process.env.BOT_INFO || 'KAISEN-BOT-MD;https://files.catbox.moe/tzdb08.mp4',
+  BOT_INFO: process.env.BOT_INFO || 'KAISEN-BOT-MD;https://files.catbox.moe/m6h9pp.mp4',
   WORKTYPE: process.env.WORKTYPE || 'public',
   CMD_NAME: process.env.CMD_NAME || '© ᴘσωєʀє∂ ву 𝖐𝚊𝚒𝚜𝖊𝖓 𝙼ԃ⎯꯭̽💀',
   PREFIX: process.env.PREFIX || '[.,!]',
